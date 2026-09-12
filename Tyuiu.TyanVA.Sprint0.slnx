@@ -3,6 +3,6 @@
     <Project Path="Tyuiu.TyanVA.Sprint0.Task0.V0/Tyuiu.TyanVA.Sprint0.Task0.V0.csproj" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.TyanVA.Task1.V0/Tyuiu.TyanVA.Task1.V0.csproj" />
+    <Project Path="Tyuiu.TyanVA.Task1.V0/Tyuiu.TyanVA.Sprint0.Task1.V0.csproj" />
   </Folder>
 </Solution>
